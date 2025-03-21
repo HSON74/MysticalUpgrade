@@ -72,3 +72,28 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+Mystical Upgrade/Library/PackageCache/com.unity.2d.tilemap/Editor/Icons/d_EditorUI.Target@4x.png.meta
+Mystical Upgrade/Library/PackageCache/com.unity.2d.tilemap/Editor/ObjectCreationMenu.meta
+Mystical Upgrade/Library/PackageCache/com.unity.2d.tilemap/Editor/ObjectCreationMenu/DefaultAssetCreation.cs
+Mystical Upgrade/Library/PackageCache/com.unity.2d.tilemap/Editor/ObjectCreationMenu/DefaultAssetCreation.cs.meta
+Mystical Upgrade/Library/PackageCache/com.unity.2d.tilemap/Editor/ObjectCreationMenu/GameObjectCreation.cs
+Mystical Upgrade/Library/PackageCache/com.unity.2d.tilemap/Editor/ObjectCreationMenu/GameObjectCreation.cs.meta
+Mystical Upgrade/Library/PackageCache/com.unity.2d.tilemap/Editor/Icons/Tilemap.ShowTilePalette.png.meta
+Mystical Upgrade/Library/PackageCache/com.unity.2d.tilemap/Editor/Icons/Tilemap.ShowTilePalette@2x.png.meta
+Mystical Upgrade/Library/PackageCache/com.unity.2d.tilemap/Editor/Icons/Tilemap.ShowTilePalette@4x.png.meta
+Mystical Upgrade/Library/PackageCache/com.unity.2d.tilemap/Editor/Icons/Tilemap.TilePalette.png.meta
+Mystical Upgrade/Library/PackageCache/com.unity.2d.tilemap/Editor/Icons/Tilemap.TilePalette@2x.png.meta
+Mystical Upgrade/Library/PackageCache/com.unity.2d.tilemap/Editor/Icons/Tilemap.TilePalette@4x.png.meta
+Mystical Upgrade/Library/PackageCache/com.unity.2d.tilemap/Editor/Icons/Tilemap.ShowGrid@4x.png.meta
+Mystical Upgrade/Library/PackageCache/com.unity.2d.tilemap/Editor/Icons/Tilemap.ShowGrid@2x.png.meta
+Mystical Upgrade/Library/PackageCache/com.unity.2d.tilemap/Editor/Icons/Tilemap.GridPaint@4x.png.meta
+Mystical Upgrade/Library/PackageCache/com.unity.2d.tilemap/Editor/Icons/Tilemap.ShowGrid.png.meta
+Mystical Upgrade/Library/PackageCache/com.unity.2d.tilemap/Editor/Icons/Tilemap.GridPaint@2x.png.meta
+Mystical Upgrade/Library/PackageCache/com.unity.2d.tilemap/Editor/Icons/Tilemap.GridPaint.png.meta
+Mystical Upgrade/Library/PackageCache/com.unity.2d.tilemap/Editor/Icons/Tilemap.FocusGrid.png.meta
+Mystical Upgrade/Library/PackageCache/com.unity.2d.tilemap/Editor/Icons/Tilemap.FocusGrid@2x.png.meta
+Mystical Upgrade/Library/PackageCache/com.unity.2d.tilemap/Editor/Icons/Tilemap.FocusGrid@4x.png.meta
+Mystical Upgrade/Library/PackageCache/com.unity.2d.tilemap/Editor/Icons/Tilemap.FocusNone.png.meta
+Mystical Upgrade/Library/PackageCache/com.unity.2d.tilemap/Editor/Icons/Tilemap.FocusNone@2x.png.meta
+Mystical Upgrade/Library/PackageCache/com.unity.2d.tilemap/Editor/Icons/Tilemap.FocusNone@4x.png.meta
+*.meta
